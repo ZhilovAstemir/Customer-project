@@ -1,0 +1,12 @@
+D:\Eboba\Customer\Customer\bin\Debug\net6.0\Customer.deps.json
+D:\Eboba\Customer\Customer\bin\Debug\net6.0\Customer.dll
+D:\Eboba\Customer\Customer\bin\Debug\net6.0\ref\Customer.dll
+D:\Eboba\Customer\Customer\bin\Debug\net6.0\Customer.pdb
+D:\Eboba\Customer\Customer\obj\Debug\net6.0\Customer.csproj.AssemblyReference.cache
+D:\Eboba\Customer\Customer\obj\Debug\net6.0\Customer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Eboba\Customer\Customer\obj\Debug\net6.0\Customer.AssemblyInfoInputs.cache
+D:\Eboba\Customer\Customer\obj\Debug\net6.0\Customer.AssemblyInfo.cs
+D:\Eboba\Customer\Customer\obj\Debug\net6.0\Customer.csproj.CoreCompileInputs.cache
+D:\Eboba\Customer\Customer\obj\Debug\net6.0\Customer.dll
+D:\Eboba\Customer\Customer\obj\Debug\net6.0\ref\Customer.dll
+D:\Eboba\Customer\Customer\obj\Debug\net6.0\Customer.pdb
